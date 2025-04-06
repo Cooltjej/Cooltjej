@@ -14,11 +14,12 @@ helping others create powerful apps without the overwhelm.
 
 ## 📫 Connect with Me
 
-Feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-klinteberg-83b661224)
+✨ Want to chat or collaborate? Reach me at: [Mail](mailto:eklintis@gmail.com)
+Also feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-klinteberg-83b661224) ✨
 
 ## 🛠️ Tools I Use & Love
 
-### 💚 Frontend
+### 💚 **Frontend**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="30" height="30"/>
@@ -26,12 +27,12 @@ Feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-klinte
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Pug-logo.svg" alt="Pug" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinia/pinia-original.svg" alt="Pinia" width="30" height="30"/>
+  <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="30" height="30"/>
 </p>
 
 &nbsp;
 
-### 🔧 Dev Tools
+### 🛠️ **Dev Tools**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30"/>
@@ -44,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-klinte
 
 &nbsp;
 
-### 🎨 Design & Creativity
+### 🎨 **Design & Creativity**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" alt="Canva" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" alt="Canva" width="60" height="30"/>
 </p>
 
 &nbsp;
 
-### ☁️ Backend & Services
+### ☁️ **Backend & Services**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
