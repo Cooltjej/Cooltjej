@@ -24,7 +24,7 @@ Also feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-k
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Pug-logo.svg" alt="Pug" width="30" height="30"/>
+  <img src="https://www.svgrepo.com/show/374012/pug.svg" alt="Pug" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="30" height="30"/>
   <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="30" height="30"/>
@@ -48,7 +48,7 @@ Also feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-k
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" alt="Canva" width="60" height="30"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="Canva" width="60" height="30"/>
 
 </p>
 
