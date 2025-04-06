@@ -15,6 +15,7 @@ helping others create powerful apps without the overwhelm.
 ## 📫 Connect with Me
 
 ✨ Want to chat or collaborate? Reach me at: [Mail](mailto:eklintis@gmail.com)
+<br>
 Also feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-klinteberg-83b661224) ✨
 
 ## 🛠️ Tools I Use & Love
