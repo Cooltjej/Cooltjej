@@ -48,7 +48,7 @@ Also feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-k
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="Canva" width="60" height="30"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="Canva" width="30" height="30"/>
 
 </p>
 
