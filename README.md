@@ -1,4 +1,4 @@
-## About Me 🌸
+## About Me ✨
 
 Hi, I'm Emma – a creative front-end developer with a heart for people and simplicity 💡  
 I love turning complex ideas into user-friendly web applications that actually _make life easier_.  
@@ -14,7 +14,7 @@ helping others create powerful apps without the overwhelm.
 
 ## 📫 Connect with Me
 
-✨ Want to chat or collaborate? Reach me at: [Mail](mailto:eklintis@gmail.com)
+✨ Want to chat or collaborate? Reach me at: [eklintis@gmail.com](mailto:eklintis@gmail.com)
 <br>
 Also feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-klinteberg-83b661224) ✨
 
