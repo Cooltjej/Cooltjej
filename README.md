@@ -31,7 +31,6 @@ Also feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-k
   <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="30" height="30"/>
 </p>
 
-&nbsp;
 
 ### 🛠️ **Dev Tools**
 
@@ -43,7 +42,6 @@ Also feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-k
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="30" height="30"/>
 </p>
 
-&nbsp;
 
 ### 🎨 **Design & Creativity**
 
@@ -53,7 +51,7 @@ Also feel free to reach out to me on [LinkedIn](linkedin.com/in/emma-åhlander-k
 
 </p>
 
-&nbsp;
+
 
 ### ☁️ **Backend & Services**
 
